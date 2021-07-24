@@ -34,7 +34,6 @@ export default class AnimaNumeros {
 
   // funçao que executa quando a mutação ocorrer
   handleMutation(mutation) {
-    console.log(mutation);
     if (mutation[0].target.classList.contains(this.observerClass)) {
       this.observer.disconnect();
       this.animaNumeros();

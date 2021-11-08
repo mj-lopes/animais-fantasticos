@@ -8,8 +8,7 @@ Fantastic Beasts é um site idealizado buscando implementar diversas implementa�
 
 <p align="center">
  <a href="#requisitos">Requisitos</a> •
- <a href="#instalacao">Instalação</a> • 
- <a href="#funcionando">Funcionando</a> •
+ <a href="#instalacao">Instalação e Utilização</a> • 
  <a href="#tecnologias">Tecnologias</a> •   
  <a href="#autor">Autor</a> 
 </p>
@@ -17,6 +16,11 @@ Fantastic Beasts é um site idealizado buscando implementar diversas implementa�
 <div align='center'>
 <h3>Status do Projeto</h3>
 <p> Concluido 🌟</p>
+
+https://user-images.githubusercontent.com/56007721/140678196-33eb0e1b-b764-4449-95f7-12248dcfb5ba.mp4
+
+<a align='center' href='https://nice-weather.vercel.app'> <h3> Faça um teste online 🦁</h3> </a>
+
 </div>
  
 <h2 id='requisitos'> Requisitos ⚙</h2>

@@ -16,15 +16,32 @@ Fantastic Beasts é um site idealizado buscando implementar diversas implementa�
 <div align='center'>
 <h3>Status do Projeto</h3>
 <p> Concluido 🌟</p>
+</div>
 
+<h2> Features 🦊</h2>
+ 
+- Menu dropdown
+- Navegação tabular
+- Accordion
+- Slide responsivo e navegavel por botões
+- Contagem de números dinâmicos
+- Fetch de dados por APIs
+- Status OPEN/CLOSE 
+- Modal
+- Menu mobile
+- Scroll interno suave
+
+ <div align='center'>
+ 
 https://user-images.githubusercontent.com/56007721/140678196-33eb0e1b-b764-4449-95f7-12248dcfb5ba.mp4
 
-<a align='center' href='https://nice-weather.vercel.app'> <h3> Faça um teste online 🦁</h3> </a>
+<a align='center' href='https://mj-lopes.github.io/fantastic-beasts/'> <h3> Faça um teste online 🐻</h3> </a>
 
 </div>
  
 <h2 id='requisitos'> Requisitos ⚙</h2>
-*Caso queira trabalhar com o código</br>
+*Caso queira trabalhar com o código
+</br>
 
 Você vai precisar ter instalado em sua máquina a seguinte: [Git](https://git-scm.com).
 
